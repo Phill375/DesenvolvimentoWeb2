@@ -1,0 +1,6 @@
+.listagem_horizontal {
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    padding: 0;
+  }

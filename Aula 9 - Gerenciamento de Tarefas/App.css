@@ -1,0 +1,19 @@
+.lista-tarefas{
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+body{
+  justify-content: center;
+}
+
+button{
+  width: 130px;
+  margin: 10px;
+  justify-content: center;
+}
+input{
+  width: 200px;
+}
